@@ -2,7 +2,7 @@
 # Book Collection
 
 A file that allows an interface for a personal book collection.
-Allows adding, displaying, and searching in the database.
+Allows adding, removing, displaying, and searching in the database.
 
 ## Changes Needed
 
